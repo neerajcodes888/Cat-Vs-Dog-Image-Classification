@@ -12,7 +12,7 @@ This project aims to build a machine learning model to classify images as either
 - `models/`: This directory stores the trained machine learning model.
 
 ## Requirements
-- Python 3.x
+- Python 3.9 or more
 - TensorFlow
 - NumPy
 - Matplotlib
@@ -31,16 +31,16 @@ This script will train the model on the provided dataset and save the trained mo
 python src/predict.py path/to/test/image.jpg
 Replace path/to/test/image.jpg with the path to the image you want to classify.
 
-#Results
+# Results
 Include any relevant information about the model's performance, accuracy, and evaluation metrics.
 
-#Future Improvements
+# Future Improvements
 List potential improvements or features that can be added to enhance the project.
 
-#Acknowledgments
+# Acknowledgments
 Give credit to any third-party libraries, datasets, or resources used in the project.
 
-#License
+# License
 This project is licensed under the MIT License.
 
 
