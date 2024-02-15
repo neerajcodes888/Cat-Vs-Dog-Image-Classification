@@ -2,7 +2,7 @@
 
 
 ## Overview
-This project aims to build a machine learning model to classify images as either a cat or a dog. The model is trained on a dataset of labeled cat and dog images and uses a convolutional neural network (CNN) for image classification.
+This project aims to build a Deep learning model to classify images as either a cat or a dog. The model is trained on a dataset of labeled cat and dog images and uses a convolutional neural network (CNN) for image classification.
 
 ## Project Structure
 - `data/`: This directory contains the dataset, divided into subdirectories for training and testing images.
