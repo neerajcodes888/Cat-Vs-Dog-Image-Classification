@@ -4,7 +4,19 @@ This project aims to classify images as either cats or dogs using machine learni
 
 ## Dataset Index
 
-...
+| Filename          | Label | File Type | Resolution | Notes                       |
+|-------------------|-------|-----------|------------|-----------------------------|
+| cat001.jpg        | Cat   | JPEG      | 1280x720   |                             |
+| cat002.jpg        | Cat   | JPEG      | 1920x1080  |                             |
+| dog001.jpg        | Dog   | JPEG      | 800x600    |                             |
+| dog002.jpg        | Dog   | JPEG      | 1024x768   |                             |
+
+- **Filename**: The name of the image file.
+- **Label**: The class label of the image (Cat or Dog).
+- **File Type**: The file format of the image.
+- **Resolution**: The dimensions of the image in pixels.
+- **Notes**: Any additional notes or comments about the image.
+
 
 ## Screenshots
 
