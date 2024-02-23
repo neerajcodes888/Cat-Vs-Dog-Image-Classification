@@ -83,7 +83,7 @@ validation_generator = datagen.flow_from_directory(
 )
 
 # Now you can use train_generator and validation_generator as input to your model
-
+```
 
 ## Usage
 
