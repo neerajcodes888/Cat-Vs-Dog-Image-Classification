@@ -33,5 +33,5 @@ This project aims to classify images as either cats or dogs using machine learni
 ...
 
 ## Credits
+This dataset was compiled from various sources, including [insert sources or contributors]. We acknowledge and appreciate their contributions.
 
-...
