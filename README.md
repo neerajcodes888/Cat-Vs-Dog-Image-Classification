@@ -1,5 +1,8 @@
 # Cat-vs-Dog Image Classification
 
+![Cat-Vs-Dog-Image-Classification](https://socialify.git.ci/neerajcodes888/Cat-Vs-Dog-Image-Classification/image?description=1&descriptionEditable=%20%20%20%20%20%20%20%20%20Repository%20for%20a%20deep%20learning%20model%20that%20classifies%20images%20as%20either%20cats%20or%20dogs%20using%20deep%20learning%20techniques.&font=Raleway&language=1&name=1&owner=1&pattern=Solid&theme=Dark)
+
+
 This project aims to classify images as either cats or dogs using machine learning techniques.
 
 ## Dataset Index
